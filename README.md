@@ -30,4 +30,4 @@
 
 ## Контакты
 - [LinkedIn](https://www.linkedin.com/in/aksyutenko)
-- [Telegram](https://t.me/aksyutenko)
+- [Telegram](https://t.me/efaskheeva)
