@@ -30,6 +30,6 @@
 - [Экономист-менеджер](). ЮУрГУ, 2010
 
 ## Контакты
-- [E-mail](ev_fasheeva@mail.ru)
+- [E-mail](mailto:ev_fasheeva@mail.ru)
 - [Telegram](https://t.me/efaskheeva)
 - [TenChat](https://tenchat.ru/ElenaFaskheeva)
