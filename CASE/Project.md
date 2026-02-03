@@ -20,6 +20,6 @@
  
  - Разработана простая [*финансовая модель*]() для MVP;
 
- - Подготовлена [презентация]() для инвестора в PowerPoint.
+ - Подготовлена [презентация](https://docs.google.com/presentation/d/1z568sF9qvh5VVAVi1DUl4OpjLQ3qxtaw/edit?usp=sharing&ouid=112528494964184718173&rtpof=true&sd=true) для инвестора в PowerPoint.
    
 
