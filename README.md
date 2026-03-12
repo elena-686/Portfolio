@@ -29,7 +29,7 @@
 
 
 ## Сертификаты и дипломы
-- [Бизнес-аналитик](https://drive.google.com/file/d/17SR5_UVYS4h5WuTv6Jfse4RvFwwuzTCi/view?usp=sharing). Нетология, январь 2026
+- [Бизнес-аналитик](https://drive.google.com/file/d/1o9iBTarPp3TjXYzkkwm82FXE_U2JdlhD/view?usp=sharing). Нетология, январь 2026
 - [Экономист-менеджер](). ЮУрГУ, 2010
 
 ## Контакты
